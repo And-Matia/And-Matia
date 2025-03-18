@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👾
+# Welcome to My GitHub Profile 👨‍💻
 
 ## About Me
 
@@ -25,9 +25,7 @@ Feel free to reach out to me for collaborations, open-source contributions, or a
 
 - **Email**: [randymatiaand@gmail.com](mailto:randymatiaand@gmail.com)
 - **GitHub**: You are currently there XD
-- **Facebook**: [Randy ANDRIANARISON]((https://www.facebook.com/profile.php?id=100094147293145))
+- **Facebook**: [Randy ANDRIANARISON](https://www.facebook.com/profile.php?id=100094147293145)
 - **WhatsApp**: +261 34 43 155 77
 
 ---
-
-![Profile Image](https://via.placeholder.com/150) <!-- Replace with your profile image URL -->
