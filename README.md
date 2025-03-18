@@ -25,7 +25,7 @@ Feel free to reach out to me for collaborations, open-source contributions, or a
 
 - **Email**: [randymatiaand@gmail.com](mailto:randymatiaand@gmail.com)
 - **GitHub**: You are currently there XD
-- **Facebook**: [Randy ANDRIANARISON](https://www.facebook.com/randy.andrianarison)
+- **Facebook**: [Randy ANDRIANARISON]((https://www.facebook.com/profile.php?id=100094147293145))
 - **WhatsApp**: +261 34 43 155 77
 
 ---
