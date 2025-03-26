@@ -7,7 +7,7 @@ I am a software developer with extensive experience in **Python**, **C#**, **C++
 I am passionate about both backend and frontend development and strive to improve my skills through continuous learning and project development. I enjoy tackling complex challenges and delivering high-quality code with attention to detail.
 
 ### Skills:
-- **Programming Languages**: Python, C#, C++, Java, C, PHP, JS
+- **Programming Languages**: Python, C#, C++, Java, C, PHP, JS, Rust, Ruby, Go
 - **Frameworks & Libraries**:
   - **UI Development**: tkinter, PyQt, Qt, WinForms, WPF, Swing, JavaFX
   - **Web Development**: Flask, Django, Blazor, SpringBoot, Servlets
