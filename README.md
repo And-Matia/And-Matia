@@ -9,9 +9,9 @@ I am passionate about both backend and frontend development and strive to improv
 ### Skills:
 - **Programming Languages**: Python, C#, C++, Java, C, PHP, JS, Dart ,Kotlin
 - **Frameworks & Libraries**:
-  - **UI Development**: tkinter, PyQt, Qt, WinForms, WPF, Swing, JavaFX
+  - **UI Development**: PyQt, Qt, WinForms, WPF, Swing, JavaFX,Flutter
   - **Web Development**: Flask, Django, Blazor, SpringBoot, Servlets
-- **Database Management**: SQL, Microsoft Access, SQLite, Oracle, PostgreSQL
+- **Database Management**: SQL, Microsoft Access, Oracle, PostgreSQL
 - **Version Control & Collaboration**: Git, GitHub
 - **Development Tools**: 
   - IDEs: JetBrains IDE (Thanks to GitHub Student), Visual Studio, Visual Studio Code
